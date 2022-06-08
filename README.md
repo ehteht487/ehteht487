@@ -1,16 +1,26 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
+</div>
 
-<!--
-**ehteht487/ehteht487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello 👋
+
+---
+
+I am Emilie Thomsen, a front end developer from Bergen, Norway.
+
+
+- 🔭 I’m currently working on ... My portfolio
+- 🌱 I’m currently learning ... Web development
+- 🤔 I’m looking for help with ...Anything
+- 📫 How to reach me: ...emiliethomsen908@gmail.com
+- 😄 Pronouns: ... She/her
+- ⚡ Fun fact: ... I know how to juggle
+
+---
+
+### ⚒️: Languages and Tools :
+
+HTML, CSS, JavaScript
+
